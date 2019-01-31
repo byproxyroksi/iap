@@ -1,2 +1,4 @@
 some changes
 more
+additional line
+and one more
